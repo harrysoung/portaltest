@@ -1,0 +1,13 @@
+p {
+	color:blue;
+}
+
+a {
+	margin: auto;
+	text-align:center;
+	display:block;
+}
+
+a:active {
+	color:yellow;
+}
